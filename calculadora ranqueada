@@ -21,7 +21,6 @@ function calcularNivel(vitorias, derrotas) {
     return { saldoVitorias, nivel };
 }
 
-// Exemplo de uso:
 let quantidadeVitorias = 70;
 let quantidadeDerrotas = 20;
 
